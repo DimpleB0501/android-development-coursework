@@ -4,6 +4,3 @@ Following youtube video display the working of the App: <br/>
 |Login Page App|
 |:------------:|
 |[Youtube Link](https://youtu.be/-P0haKUIw2w)|
-
-
-https://youtu.be/-P0haKUIw2w
