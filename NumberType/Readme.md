@@ -3,4 +3,4 @@ You can enter a number and by clicking on the corresponding type check whether t
 Following youtube video display the working of the App: <br/>
 |Number Type App|
 |:------------:|
-|[Youtube Link](https://youtu.be/f4WV_U-R3M4)|
+|[Youtube Link](https://youtu.be/cLMpSpgyC98)|
