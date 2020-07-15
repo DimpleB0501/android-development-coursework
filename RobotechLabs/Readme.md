@@ -5,5 +5,5 @@ Following youtube video display the working of the App: <br/>
 |[Youtube Link](https://youtu.be/KaTmZ-Sv-Hk)|
 
 <br/>
-The folders configuration is as follows: <br/>
+The folders configuration is as follows: 
 ![onePageToAnother](rl.png)
