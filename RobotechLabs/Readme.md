@@ -7,3 +7,7 @@ Following youtube video display the working of the App: <br/>
 <br/>
 The folders configuration is as follows: 
 ![rl](rl.png)
+
+
+This folder contains code to display the following menu.<br/>
+![rl](rl.png)
