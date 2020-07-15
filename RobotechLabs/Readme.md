@@ -6,4 +6,4 @@ Following youtube video display the working of the App: <br/>
 
 <br/>
 The folders configuration is as follows: 
-![onePageToAnother](rl.png)
+![one](rl.PNG)
