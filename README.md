@@ -1,2 +1,7 @@
 # android-development-coursework
-* **clickToDisplayImage** folder contains code to display 5 images on every button click.  On the fifth button click final image is displayed and app is closed. 
+Also covered in the class are different templates (when you start a new project second page is a template page)<br/>
+Here following templates are covered: <br/>
+* Empty Activity
+* Fullscreen Activity 
+* Tabbed activity
+* Navigation Activity
