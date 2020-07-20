@@ -6,8 +6,7 @@ This folder contains code that: <br/>
 Following youtube video display the working of the App: <br/>
 |Image Nested Glide|
 |:------------:|
-|[Youtube Link](
-https://youtu.be/ezWsTNIhfd8)|
+|[Youtube Link](https://youtu.be/ezWsTNIhfd8)|
 
 
 
