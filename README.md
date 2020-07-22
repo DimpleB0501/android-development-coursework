@@ -5,3 +5,9 @@ Here following templates are covered: <br/>
 * Fullscreen Activity 
 * Tabbed activity
 * Navigation Activity
+<br/>
+Storage data<br/>
+db ---  database<br/>
+offline and server<br/>
+offline <br/>
+multirow and single row database <br/>
