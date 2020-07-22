@@ -11,3 +11,4 @@ db ---  database<br/>
 offline and server<br/>
 offline <br/>
 multirow and single row database <br/>
+Whatsapp 1 row database
