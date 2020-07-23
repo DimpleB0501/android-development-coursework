@@ -10,7 +10,7 @@ Following youtube video display the working of the App: <br/>
 
 <br/>
 Adding glide depedancies to build.gradle:
-![gradle](https://github.com/DimpleB0501/android-development-coursework/blob/master/ImageNestedGlide/gradle.PNG)
+![gradle](gradle.PNG)
 
 
 
