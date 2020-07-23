@@ -9,7 +9,8 @@ Following youtube video display the working of the App: <br/>
 |[Youtube Link](https://youtu.be/ezWsTNIhfd8)|
 
 <br/>
-Adding glide depedancies to build.gradle
+Adding glide depedancies to build.gradle<br/>
+![gradle](gradle.png)
 
 
 
