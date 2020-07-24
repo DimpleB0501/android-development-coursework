@@ -13,4 +13,5 @@ offline <br/>
 multirow and single row database <br/>
 Whatsapp 1 row database
 
-sql data -  https://sqlitebrowser.org/dl/
+sql data (computer) -  https://sqlitebrowser.org/dl/ -> select sqlite
+sql online - https://sqliteonline.com/
