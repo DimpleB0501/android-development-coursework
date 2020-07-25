@@ -11,9 +11,11 @@ db ---  database<br/>
 offline and server<br/>
 offline <br/>
 multirow and single row database <br/>
-Whatsapp 1 row database
+Whatsapp 1 row database<br/>
 
-sql data (computer) -  https://sqlitebrowser.org/dl/ -> select sqlite
-sql online - https://sqliteonline.com/
+sql data (computer) -  https://sqlitebrowser.org/dl/ -> select sqlite<br/>
+sql online - https://sqliteonline.com/<br/>
 
-icons generator - https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html
+App icons generator <br/>
+https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html <br/>
+Download the zip file and replace it in res folder and make changes in the manifest file. <br/>
