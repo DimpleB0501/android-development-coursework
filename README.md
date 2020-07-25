@@ -15,3 +15,5 @@ Whatsapp 1 row database
 
 sql data (computer) -  https://sqlitebrowser.org/dl/ -> select sqlite
 sql online - https://sqliteonline.com/
+
+icons generator - https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html
