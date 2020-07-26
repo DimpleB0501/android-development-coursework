@@ -19,3 +19,5 @@ sql online - https://sqliteonline.com/<br/>
 App icons generator <br/>
 https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html <br/>
 Download the zip file and replace it in res folder and make changes in the manifest file. <br/>
+
+Download latest version https://www.apachefriends.org/download.html
