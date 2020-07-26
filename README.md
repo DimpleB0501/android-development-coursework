@@ -23,5 +23,5 @@ Download the zip file and replace it in res folder and make changes in the manif
 Download latest version https://www.apachefriends.org/download.html
 
 Image Slider 
-gradle for image slider in google github
+gradle for image slider in google github (https://github.com/smarteist/Android-Image-Slider)
 or imageviewer
