@@ -25,3 +25,16 @@ Download latest version https://www.apachefriends.org/download.html
 Image Slider 
 gradle for image slider in google github (https://github.com/smarteist/Android-Image-Slider)
 or imageviewer
+
+### Upload your apk on playstore
+Horiztonal ... beside avd <br/>
+snapshots -> take snapshot -> Inside quickbook your snap 2020-> doub <br/> 
+build -> Generate signed apk -> nextstore -> keystorepath-> desktop -> lowercasefilename -> ok  
+password(enter) -> alias(rutuapp) ->password -> enter other details -> release -> locate -> copy apk on desktop -> generate signed apk -> com.example remove and give another package name.
+ <br/> 
+#### go through all tick marks
+chrome -> developer play console(https://play.google.com/apps/publish/signup/)  <br/> 
+Publish An APP -> Create Application (title) -> Description (what your project is about) <br/> 
+Store listing -> high res  icon (your icon) -> drop 2-3 screen shots. -> save draft.
+App releases -> Create a release -> Accept -> Upload APK ->Save
+Content rating -> email address -> content aggregators etc -> click ->  fill form -> save questionarrie -> calculate rating -> Apply rating 
